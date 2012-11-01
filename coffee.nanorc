@@ -8,7 +8,7 @@ color yellow "\<[-+]?([0-9]+[EePp][+-]?[0-9]+)[fFlL]?"
 
 ## Keywords
 color brightblue "\<(break|case|catch|continue|default|delete|do|else|finally)\>"
-color brightblue "\<(and|by|do|for|function|if|in|instanceof|new|null|of|return|switch)\>"
+color brightblue "\<(and|by|do|for|function|if|isnt|is|in|instanceof|new|null|of|return|switch)\>"
 color brightblue "\<(switch|this|throw|try|typeof|until|undefined|var|void|while|with)\>"
 color brightblue "(->|=)"
 color brightblue "\.\."
@@ -16,7 +16,7 @@ color brightblue "\.\."
 ## Type specifiers
 color red "\<(Array|Boolean|Date|Enumerator|Error|Function|Math)\>"
 color red "\<(Number|Object|RegExp|String)\>"
-color red "\<(true|false)\>"
+color red "\<(true|yes|on|false|off|no)\>"
 
 ## String
 color green "L?\"(\\"|[^"])*\""
