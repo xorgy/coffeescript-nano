@@ -1,5 +1,4 @@
 syntax "coffee" "\.coffee$"
-## Default
 ## color white "^.+$"
 ## Decimal, cotal and hexadecimal numbers
 color yellow "\<[-+]?([1-9][0-9]*|0[0-7]*|0x[0-9a-fA-F]+)([uU][lL]?|[lL][uU]?)?\>"
