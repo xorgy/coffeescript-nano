@@ -8,7 +8,7 @@ color yellow "\<[-+]?([0-9]+\.[0-9]*|[0-9]*\.[0-9]+)([EePp][+-]?[0-9]+)?[fFlL]?"
 color yellow "\<[-+]?([0-9]+[EePp][+-]?[0-9]+)[fFlL]?"
 ## Keywords
 color green "\<(break|case|catch|continue|default|delete|do|else|finally)\>"
-color green "\<(by|for|function|if|in|instanceof|new|null|return|switch)\>"
+color green "\<(and|by|for|function|if|in|instanceof|new|null|return|switch)\>"
 color green "\<(switch|this|throw|try|typeof|undefined|var|void|while|with)\>"
 color green "->"
 ## Type specifiers
