@@ -1,4 +1,4 @@
-coffeescript-nano
+CoffeeScript-nano
 =================
 
 CoffeeScript syntax highlighting in GNU Nano.
@@ -6,9 +6,8 @@ CoffeeScript syntax highlighting in GNU Nano.
 Installing
 ----------
 
-To install for the whole system coffee.nanorc in /usr/share/nano and add the following lines to your /etc/nanorc
+To install for the whole system, put coffee.nanorc in /usr/share/nano and add the following lines to your /etc/nanorc
 ```
-
 ## Coffeescript
 include "/usr/share/nano/coffee.nanorc"
 ```
