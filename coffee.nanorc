@@ -10,7 +10,7 @@ color red "\<[-+]?([0-9]+[EePp][+-]?[0-9]+)[fFlL]?"
 color brightblue "\<(break|case|catch|continue|default|delete|do|else|finally)\>"
 color brightblue "\<(and|by|class|do|extends|for|function|if|isnt|is|in|instanceof|new|null|of|return|switch)\>"
 color brightblue "\<(switch|this|throw|try|typeof|until|undefined|var|void|while|when|with)\>"
-color brightblue "(->|=|\.\.|<|>|\*|\|\|&&|!)"
+color brightblue "(->|=|\.\.|<|>|\|\|&&|!)"
 
 ## Type specifiers and special types.
 color magenta "\<(Array|Boolean|Date|Enumerator|Error|Function|Math)\>"
