@@ -6,7 +6,7 @@ CoffeeScript syntax highlighting in GNU Nano.
 Move along
 ----------
 
-coffeescript-nano has now been merged into [nano-highlight](https://github.com/serialhex/nano-highlight) and I recommend you get your copy from there, because it includes a boatload of other great highlighting files.
+coffeescript-nano has now been merged into [serialhex's nano-highlight repositor](https://github.com/serialhex/nano-highlight). I highly recommend you get your copy from there, because it includes a boatload of other useful highlighting files.
 
 
 Installing
